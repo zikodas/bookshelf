@@ -15,9 +15,9 @@ as admin :
   - I can remove a student
   - I can display the list of pending reservations
 
-the database contain three tables, etudiant,livre and reservation :
-  - etudiant contains informations about students like : first and last name, cne password, specialty ...
-  - livre contains informations about books like : book's title, authors, field ...
-  - reservation contains information about the reservation, which book is booked and who is the person that reserve it
+the database named "bibliotheque" contains three tables : "etudiant","livre" and "reservation"
+  - "etudiant" contains informations about students like : first and last name, cne password, specialty ...
+  - "livre" contains informations about books like : book's title, authors, field ...
+  - "reservation" contains information about the reservation, which book is booked and who is the person that reserve it
 
 the file Library_DB.sql contains the database, and files.zip contains all the files that feed the application 
